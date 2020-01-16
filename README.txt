@@ -11,3 +11,7 @@ Use git (not github) to keep a history of the development of your solution.
 Resources provided:
 	- SQL data (db.sql)
 	- SVG map (map.svg, map.css)
+
+## Notes
+
+* SQL Querys are vulnerable to injections

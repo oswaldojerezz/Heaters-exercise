@@ -15,3 +15,15 @@ General IT
 	•	Network, VPN, & WiFi configuration & maintenance
 	•	Linux server maintenance (file, web, database, and on-site system)
 	•	Purchasing new hardware and software
+
+-------------------------------------------------------------------------------------------------------------------------
+
+	1. Project website development (displaying data, providing remote control)
+	2. Maintenance and development of on-site control & monitoring software
+	3. Gathering, analyzing, and presenting data from operational logs & databases to help solve urgent problems
+	4. Low-level device programming, real-time systems (digiTAMs, PDS & WCS controllers)
+	5. Network, VPN, & WiFi configuration & maintenance
+	6. Assisting office staff with computer problems
+	7. Purchasing new hardware and software
+	8. Linux server maintenance (file, web, database, and on-site system)
+	9. Numerical simulation (finite element analysis, math, physics, etc)
