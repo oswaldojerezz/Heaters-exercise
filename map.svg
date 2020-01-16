@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='4.8 -3.42 52.41 50.67' version='1.1' overflow='visible' preserveAspectRatio='xMidYMid meet'>
+<link xmlns='http://www.w3.org/1999/xhtml' rel='stylesheet' href='map.css' type='text/css'/>
+
+<g id='mc2svg' transform='matrix(1 0 0 1 0 0)' stroke-width='0.1625' font-family='arial' font-face='bold' font-size='7'>
+	<g id='wells' text-anchor='middle' class='heaters'>
+		<g id='labels' pointer-events='none' fill='black'>
+			<a href="http://www.google.com"><text transform='matrix(0.325 0 0 0.325 16.50375 20.48574375)' x='24.45' y='30.34925'   id='text_I-1'> I-1</text></a>
+			<text transform='matrix(0.325 0 0 0.325 25.353 20.49249375)' x='37.56' y='30.35925'   id='text_I-2'>I-2</text>
+			<text transform='matrix(0.325 0 0 0.325 20.925 10.19840625)' x='31' y='15.10875'   id='text_I-3'>I-3</text>
+		</g>
+		<g id='markers'>
+			 <circle id='I-1' cx='24.45' cy='27.59' r='0.975' class='well'/>
+			<circle id='I-2' cx='37.56' cy='27.6' r='0.975' class='well'/>
+			<circle id='I-3' cx='31' cy='16.23' r='0.975' class='well'/>
+		</g>
+	</g>
+</g>
+
+</svg>

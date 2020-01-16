@@ -1,0 +1,17 @@
+We have a variety of programming and programmer tasks and projects at our company.
+Please arrange these 9 items from most to least interesting, by numbering them 1 to 9
+(1 for the most interesting item, 9 for the least interesting item), and include
+your answer with your programming solution.
+
+Programming
+	•	Numerical simulation (finite element analysis, math, physics, etc)
+	•	Project website development (displaying data, providing remote control)
+	•	Maintenance and development of on-site control & monitoring software
+	•	Gathering, analyzing, and presenting data from operational logs & databases to help solve urgent problems
+	•	Low-level device programming, real-time systems (digiTAMs, PDS & WCS controllers)
+
+General IT
+	•	Assisting office staff with computer problems
+	•	Network, VPN, & WiFi configuration & maintenance
+	•	Linux server maintenance (file, web, database, and on-site system)
+	•	Purchasing new hardware and software

@@ -1,0 +1,27 @@
+.heaters .well {
+	fill:red;
+	stroke:#000;
+	cursor: pointer ;
+}
+
+a:hover  {
+	fill: pink;
+	stroke: red;
+	stroke-width: 1;
+	cursor: pointer ;
+  }
+
+svg {
+	display: block;
+	margin: auto;
+  }
+
+  .graphic{
+	  width: 600px;
+	  height: 600px;
+  }
+
+#btnBack #btnNext{
+	visibility: hidden;
+	display: none;
+}
